@@ -1,7 +1,5 @@
 # Lounge search
 
-https://lounge-search.herokuapp.com/
-
 Lounge Search is a free lodging website inspired by CouchSurfing. 
 The site was created for travelers who want to explore the various spots of San Francisco, 
 and stay with locals who know the area.
